@@ -1,0 +1,3 @@
+[submodule "CC1"]
+	path = CC1
+	url = git@github.com:rileygoerg/Coding-Challenge-1.git
